@@ -1,0 +1,11 @@
+# Aiken
+artifacts/
+build/
+docs/
+aiken.lock
+plutus.json
+/mynth-lock.json
+!test/mynth-lock.json
+
+# node
+node_modules
